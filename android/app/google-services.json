@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "984811166364",
+    "project_id": "zfirebaseno",
+    "storage_bucket": "zfirebaseno.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:984811166364:android:8ee4091e927bf1f7f12b59",
+        "android_client_info": {
+          "package_name": "com.example.mechat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKKGm3f7teGDUaUnOzN8pDC1gqUe0_Oos"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
